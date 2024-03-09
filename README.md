@@ -1,2 +1,2 @@
 # BankProject
-bank  project useing oop in C++
+bank  project using oop in C++
